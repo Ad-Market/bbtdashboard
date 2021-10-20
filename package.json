@@ -1,0 +1,26 @@
+{
+  "homepage": "http://BuyBackGit.github.io/bbtdashboard",
+  "name": "dapp",
+  "version": "1.0.0",
+  "description": "json",
+  "main": "main.js",
+  "dependencies": {
+    "git": "^0.1.5",
+    "moralis": "^0.0.98",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuyBackGit/bbtdashboard.git"
+  },
+  "author": "BBTgit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuyBackGit/bbtdashboard/issues"
+  },
+  "homepage": "https://github.com/BuyBackGit/bbtdashboard#readme"
+}
