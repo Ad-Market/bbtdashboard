@@ -8,7 +8,7 @@ const appId = "bT4pAMHLfPBXlo8Y7QMYGQDS9NBZOmPcigHV5gDY";
 Moralis.start({ serverUrl, appId });
 
 
-let homepage ="http://127.0.0.1:5500/index.html"
+let homepage ="https://buybackgit.github.io/bbtdashboard/"
 
 if (Moralis.User.current() == null && window.location.href != homepage) {
     document.querySelector('body').style.display ='none';
