@@ -1691,9 +1691,9 @@ if (document.querySelector('#get-nfts-link') != null) {
 if(document.querySelector('#btn-login') != null){
     document.querySelector('#btn-login').onclick = login; 
 } 
-if(document.querySelector('#btn-logout') != null){
+//if(document.querySelector('#btn-logout') != null){
     document.querySelector('#btn-logout').onclick = logout;
-}
+//}
 
 
 //cool-token
